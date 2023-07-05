@@ -91,6 +91,8 @@ class mainActivity_fragment : Fragment(), CalendarAdapter.OnItemListener {
     }
 
     override fun initWidgets() {
-
+        TODO("Not yet implemented")
     }
+
+
 }
